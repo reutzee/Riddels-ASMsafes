@@ -7,4 +7,4 @@ Requirements:
    The mission: create third survivors - UGLY code which will cause the BAD to terminate BUT NOT the GOOD.
 3. How to run: for each safe, put GOOD, BAD, UGLY codes on survivors dir.
 
-# The UGLY codes are safe*3.asm
+# The UGLY codes are safeX3.asm while X = {a,b,c,d,e}
