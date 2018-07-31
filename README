@@ -4,7 +4,7 @@ Requirements:
 1. Download corewars8086.zip & extract
 2. The Safes are at vaults dir. 
    Each safe contain the GOOD code & BAD code.
-   The mission: create third survivors - UGLY code which will cause the BAD to terminate BUT NOT the GOOD.
+   The mission: create third survivor - UGLY code which will cause the BAD to terminate BUT NOT the GOOD.
 3. How to run: for each safe, put GOOD, BAD, UGLY codes on survivors dir.
 
 # The UGLY codes are safeX3.asm while X = {a,b,c,d,e}
